@@ -6,7 +6,7 @@ on:
       boot_url:
         description: 'boot 下载直链'
         required: true
-        default: 'd'
+        default: ''
 
 jobs:
   magisk_upack:
